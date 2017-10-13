@@ -1,0 +1,4 @@
+time = input("Please input a time\n:")
+time = str(time)
+
+
